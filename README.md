@@ -25,5 +25,5 @@ Tür: PLA
 **Kablo;**
 -Tür: RG58
 Uzunluk: 10cm
-
+ 
 
