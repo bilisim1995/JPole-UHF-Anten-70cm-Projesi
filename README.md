@@ -54,8 +54,8 @@ Alüminyum profil hesaplaması için:
 
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/6796645/106331666-62f87a80-6296-11eb-95be-dade85d3a8d2.jpg" width="150" height="94">
-## Bu proje TA7SKO  Op. Oğuzhan BOZKURT tarafından oluşturulmuştur. 
+<img src="https://user-images.githubusercontent.com/6796645/106331666-62f87a80-6296-11eb-95be-dade85d3a8d2.jpg" width="80" height="51">
+<h4>Bu proje TA7SKO  Op. Oğuzhan BOZKURT tarafından oluşturulmuştur. </h4>
 </p>
 
 
