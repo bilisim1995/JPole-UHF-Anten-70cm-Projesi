@@ -13,6 +13,7 @@ Daha doğru bir şekilde J anteni olarak bilinen J kutuplu anten, ilk olarak 190
 ------------
 
 <img src="https://user-images.githubusercontent.com/6796645/106329984-78b87080-6293-11eb-8802-153e77a9b6d0.jpg" width="400" height="600">
+<img src="https://user-images.githubusercontent.com/6796645/106330448-4d825100-6294-11eb-95e6-8b20f3134f20.png" width="400" height="600">
 
 ------------
 
