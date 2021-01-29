@@ -29,7 +29,7 @@ Daha doğru bir şekilde J anteni olarak bilinen J kutuplu anten, ilk olarak 190
 #### Konnektör;
 - Tür: UHF Şase Yuvarlak Tip Dişi Konnektör
 
-# Kablo;
+#### Kablo;
 - Tür: RG58
 - Uzunluk: 5cm
 
