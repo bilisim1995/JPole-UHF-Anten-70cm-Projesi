@@ -12,7 +12,7 @@ Daha doğru bir şekilde J anteni olarak bilinen J kutuplu anten, ilk olarak 190
 
 ------------
 
-![gorunum-4](https://user-images.githubusercontent.com/6796645/106329984-78b87080-6293-11eb-8802-153e77a9b6d0.jpg)
+![](https://user-images.githubusercontent.com/6796645/106329984-78b87080-6293-11eb-8802-153e77a9b6d0.jpg =400x600)
 
 ------------
 
@@ -47,6 +47,6 @@ Alüminyum profil hesaplaması için:
 ### Not
 - Model tasarımları Autodesk Fusion 360 ile yapılmıştır.
 
-# Bu proje TA7SKO  Op. Oğuzhan tarafından oluşturulmuştur. 
+## Bu proje TA7SKO  Op. Oğuzhan tarafından oluşturulmuştur. 
 
 
