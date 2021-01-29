@@ -33,4 +33,14 @@ Daha doğru bir şekilde J anteni olarak bilinen J kutuplu anten, ilk olarak 190
 - Tür: RG58
 - Uzunluk: 5cm
 
+------------
+
+### Yararlı Linkler
+
+Alüminyum profil hesaplaması için;
+https://www.changpuak.ch/electronics/J-Pole_Antenna-Designer.php
+
+### Yararlı Linkler
+- Model tasarımları Autodesk Fusion 360 ile yapılmıştır.
+
 
