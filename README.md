@@ -19,18 +19,18 @@ Daha doğru bir şekilde J anteni olarak bilinen J kutuplu anten, ilk olarak 190
 - Çapı : 10mm
 
 ## Plastik Kutu;
--Tür: PLA
--Üretim: 3D Yazıcı
+- Tür: PLA
+- Üretim: 3D Yazıcı
 
 ## Plastik Kapak - 2 Adet;
--Tür: PLA
--Üretim: 3D Yazıcı
+- Tür: PLA
+- Üretim: 3D Yazıcı
 
 ## Konnektör;
--Tür: UHF Şase Yuvarlak Tip Dişi Konnektör
+- Tür: UHF Şase Yuvarlak Tip Dişi Konnektör
 
 ## Kablo;
--Tür: RG58
--Uzunluk: 5cm
+- Tür: RG58
+- Uzunluk: 5cm
 
 
