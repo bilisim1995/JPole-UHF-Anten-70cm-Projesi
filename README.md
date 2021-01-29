@@ -37,10 +37,10 @@ Daha doğru bir şekilde J anteni olarak bilinen J kutuplu anten, ilk olarak 190
 
 ### Yararlı Linkler
 
-Alüminyum profil hesaplaması için;
-https://www.changpuak.ch/electronics/J-Pole_Antenna-Designer.php
+Alüminyum profil hesaplaması için:
+- https://www.changpuak.ch/electronics/J-Pole_Antenna-Designer.php
 
-### Yararlı Linkler
+### Not
 - Model tasarımları Autodesk Fusion 360 ile yapılmıştır.
 
 
