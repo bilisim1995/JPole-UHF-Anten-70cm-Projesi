@@ -14,22 +14,22 @@ Daha doğru bir şekilde J anteni olarak bilinen J kutuplu anten, ilk olarak 190
 
 ### Kullanılan Malzemeler
 
-## 2 Adet Alüminyum boru;
+# 2 Adet Alüminyum boru;
 - Malzeme Türü: Alüminyum
 - Çapı : 10mm
 
-## Plastik Kutu;
+# Plastik Kutu;
 - Tür: PLA
 - Üretim: 3D Yazıcı
 
-## Plastik Kapak - 2 Adet;
+# Plastik Kapak - 2 Adet;
 - Tür: PLA
 - Üretim: 3D Yazıcı
 
-## Konnektör;
+# Konnektör;
 - Tür: UHF Şase Yuvarlak Tip Dişi Konnektör
 
-## Kablo;
+# Kablo;
 - Tür: RG58
 - Uzunluk: 5cm
 
