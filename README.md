@@ -11,10 +11,10 @@ UHF (Ultra Yüksek Frekans) aralığı, elektromagnetik tayfın, 0,1–1 m dalga
 Daha doğru bir şekilde J anteni olarak bilinen J kutuplu anten, ilk olarak 1909'da Zeppelin hava gemilerinde kullanılmak üzere Hans Beggerow tarafından icat edildi. Zeplin arkasına sürülen tek elemanlı, çeyrek dalgalı paralel besleme hattı ayarlama saplamasına sahip bir yarım dalga boyunda uzun radyatörden oluşuyordu. Bu konsept, 1936'da J konfigürasyonuna dönüştü ve 1943'te J Anten adını aldı. Yayılan yarım dalga bölümü yatay olarak, çeyrek dalga eşleştirme saplamasına dik açılarla monte edildiğinde, varyasyona tipik olarak "Zepp" anteni denir.
 
 ------------
-
+<p float="left">
 <img src="https://user-images.githubusercontent.com/6796645/106329984-78b87080-6293-11eb-8802-153e77a9b6d0.jpg" width="400" height="600">
 <img src="https://user-images.githubusercontent.com/6796645/106330448-4d825100-6294-11eb-95e6-8b20f3134f20.png" width="400" height="600">
-
+</p>
 ------------
 
 ### Kullanılan Malzemeler
